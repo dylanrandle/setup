@@ -1,2 +1,3 @@
 # setup
-Setup and install scripts for applications and configuration
+
+Setup scripts for applications and configurations
